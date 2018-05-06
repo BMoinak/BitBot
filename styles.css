@@ -13,9 +13,10 @@ body
 }
 .tits
 {
-	font-family:  Arial;
+	font-family:  Courier New;
 	background: #676C7D;
     color: white;
+    text-align: center;
     font-size: 60;
     padding: 0.1em 0.1em;
 }
