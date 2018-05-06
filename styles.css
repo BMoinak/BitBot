@@ -20,9 +20,9 @@ body
     padding: 0.1em 0.1em;
 }
 
-.conv
+.others
 {
-	
+	margin: 1%;
 
 }
 .data
@@ -55,5 +55,5 @@ p
 {
 	float: left;
 	margin: 3%;
-	height: 27em;
+	height: 33em;
 }
