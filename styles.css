@@ -1,0 +1,59 @@
+html
+{
+	background: #262D46;
+}
+body
+{
+	background: white;
+	background-color: white;
+	margin: auto;
+	display: inline-block;
+    min-width: 100%;
+    border: 5px #262D46;
+}
+.tits
+{
+	font-family:  Arial;
+	background: #676C7D;
+    color: white;
+    font-size: 60;
+    padding: 0.1em 0.1em;
+}
+
+.conv
+{
+	
+
+}
+.data
+{
+	text-align: left;
+	float: center;
+	background-color: white;
+	background: white;
+	margin: 1%;
+	padding: 1%;
+	
+}
+
+h1
+{
+	background: white;
+}
+p
+{
+	background: white;
+}
+
+.dat
+{
+
+	float:center;
+	text-align: left;
+}
+.fir
+{
+	float: left;
+	margin: 3%;
+	height: 27em;
+}
